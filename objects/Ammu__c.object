@@ -163,9 +163,7 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    <fields>
-    
-        <fullName>Field_Two__c</fullName>
+    <fields> <fullName>Field_Two__c</fullName>
         <externalId>false</externalId>
         <label>Field Two</label>
         <length>44</length>
@@ -176,8 +174,8 @@
         <unique>false</unique>
     </fields>
     <fields>
-
-        <fullName>Field_one__c</fullName>
+    
+     <fullName>Field_one__c</fullName>
         <externalId>false</externalId>
         <label>Field one</label>
         <length>44</length>
